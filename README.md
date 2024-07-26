@@ -5,10 +5,9 @@ Proje haftasına hoş geldiniz! Bu projede sizlerden 3 aşamalı bir uygulama ge
 Hangi programı çalıştırmak istersiniz - 3 farklı seçenek :
 
 1 - Rastgele Sayı Bulma Oyunu
-
 2 - Hesap Makinesi
-
 3 - Ortalama Hesaplama
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Rastgele Sayı Bulma Oyunu
 
