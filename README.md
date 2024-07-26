@@ -1,5 +1,12 @@
 # C# Fundamentals
 
+Rastgele Sayı Bulma Oyunu, Hesap Makinesi ve Ortalama Hesaplama olarak 3 adet fonksiyonu bir araya getirip bugüne kadar öğrendiğim c# yapılarını pekiştirmek üzere yaptığım bir projedir.
+
+- Program önce size girmek istediğiniz fonksiyonu sorar. Sizden 1,2,3 değerlerinden birini girmenizi ister.
+- Daha sonrasında seçtiğiniz sayının karşılığındaki fonksiyon çalışır ve işleminizi gerçekleştirdikten sonra program sonlanır.
+
+Proje ödevin detayları ve kriterleri şu şekildedir : 
+
 Proje haftasına hoş geldiniz! Bu projede sizlerden 3 aşamalı bir uygulama geliştirmeniz isteniyor. Uygulamayı çalıştıran kullanıcıya program seçeneklerini konsol üzerinden sunarak bir tanesini seçmesini isteyiniz.
 
 Hangi programı çalıştırmak istersiniz - 3 farklı seçenek :
